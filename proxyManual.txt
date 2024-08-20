@@ -4,6 +4,8 @@
 #     - '+.'
 #     - ''
 
+
+
 payload:
 
  # proxy manual (test)
@@ -411,9 +413,9 @@ payload:
     - '+.applitrack.com'
 
    # appspot, Others
-    # - 'feelinsonice-hrd.appspot.com'
-    # - 'feelinsonice.appspot.com'
-    # - 'sc-analytics.appspot.com'
+    # - DOMAIN, feelinsonice-hrd.appspot.com'
+    # - DOMAIN, feelinsonice.appspot.com'
+    # - DOMAIN, sc-analytics.appspot.com'
 
    # arkoselabs.com
     - 'client-api.arkoselabs.com'
@@ -618,7 +620,7 @@ payload:
     - 'z.cdp-dev.cnn.com'
 
    # co.uk
-    - '+.co.uk'
+    - DOMAIN-KEYWORD, .co.uk'
 
    # coinbase
     - '+.coinbasecdn.net'
@@ -991,7 +993,7 @@ payload:
     # - '+.telephony.goog'
     # - '+.waveprotocol.org'
 
-    # - 'youtubei.googleapis.com'
+    # - DOMAIN, youtubei.googleapis.com'
 
     # other rules
     # - '+.c.android.clients.google.com'
@@ -1014,8 +1016,8 @@ payload:
     # - '+.www-google-analytics.l.google.com'
     # - '+.www-googletagmanager.l.google.com'
     # - '+.gstatic.com'
-    # - 'dl.google.com'
-    # - 'mtalk.google.com'
+    # - DOMAIN, dl.google.com'
+    # - DOMAIN, mtalk.google.com'
 
    # gotquestions.org
     - '+.gotquestions.org'
@@ -1484,7 +1486,7 @@ payload:
     # onedrive rules originates from this yaml file
     # - '+.blob.core.windows.net'
     # - '+.storage.msn.com'
-    # - 'oneclient.sfx.ms'
+    # - DOMAIN, oneclient.sfx.ms'
 
    # onehome.com
     - '+.onehome.com'
@@ -1817,7 +1819,7 @@ payload:
 
    # skype.com
     # - '+.twskype.com'
-    # - 'skype.com'
+    # - DOMAIN, skype.com'
 
    # synchronybank.com
     - '+.synchronybank.com'
@@ -1973,12 +1975,12 @@ payload:
    # tunein.com
     # - '+.tunein.com'
 
-    # - 'api.tunein.com'
-    # - 'cdn-cms.tunein.com'
-    # - 'cdn-web.tunein.com'
-    # - 'event.platform.tunein.com'
-    # - 'gotie.tunein.com'
-    # - 'reports.tunein.com'
+    # - DOMAIN, api.tunein.com'
+    # - DOMAIN, cdn-cms.tunein.com'
+    # - DOMAIN, cdn-web.tunein.com'
+    # - DOMAIN, event.platform.tunein.com'
+    # - DOMAIN, gotie.tunein.com'
+    # - DOMAIN, reports.tunein.com'
 
    # turn.com
 
@@ -2023,6 +2025,9 @@ payload:
 
    # vapezoo
     - '+.vapezoo.com'
+
+   # vegasinfinite.com
+    - '+.vegasinfinite.com'
 
    # vercel-insights.com
 
@@ -2155,7 +2160,7 @@ payload:
     # - '+.studio.youtube.com'
 
     # - '+.yt3.ggpht.com'
-    # - 'yt3.ggpht.com'
+    # - DOMAIN, yt3.ggpht.com'
     # - '+. com.google.ios.youtube*'
     # - '+. com.google.ios.youtubemusic*'
     # - '+. YouTube*'
