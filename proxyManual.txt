@@ -1829,7 +1829,7 @@ payload:
     - '+.teachers-teachers.com'
 
    # teacherstestprep.com
-    # - '+.teacherstestprep.com'
+    - '+.teacherstestprep.com'
 
    # tealiumiq.com (test)
     - 'uconnect.tealiumiq.com'
