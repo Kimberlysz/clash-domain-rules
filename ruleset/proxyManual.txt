@@ -4,7 +4,7 @@
 #     - '+.'
 #     - ''
 
-payload:
+# rules:
  # proxy manual (test)
    # Ⓜ️ 微软服务
     # - DOMAIN-KEYWORD, .1drv'
@@ -565,6 +565,9 @@ payload:
 
    # charlestoncounty.org
     - '+.charlestoncounty.org'
+
+   # cherryvpn.net
+    - '+.cherryvpn.net'
 
    # chia
     - '+.chia.net'
