@@ -1,4 +1,4 @@
-#  the following few lines is for creating clash rule-providers:
+#  the following few lines is for creating clasassetsh rule-providers:
 # payload:
 # 
 #     - '+.'
@@ -42,9 +42,9 @@ payload:
     - '+.icloud.com.cn'
 
    # 🌍 国外媒体
-    # - ' com.viu.pad'
-    # - ' com.viu.phone'
-    # - ' com.vuclip.viu'
+    # - '+.com.viu.pad'
+    # - '+.com.viu.phone'
+    # - '+.com.vuclip.viu'
 
     # - '+.-spotify-'
     # - '+..hbogoasia.'
@@ -731,8 +731,7 @@ payload:
     - '+.discomax.com'
 
    # disneyplus
-    # (test)
-    - '+.bam.nr-data.net'
+    # - '+.bam.nr-data.net'
     # - '+.cdn.registerdisney.go.com'
     # - '+.d9.flashtalking.com'
     # - '+.dssott.com.akamaized.net'
@@ -1461,6 +1460,9 @@ payload:
    # noviosfalabella.com
     - '+.noviosfalabella.com'
 
+   # nr-data.net
+    - '+.bam-cell.nr-data.net'
+
   # o
    # oculus
     - 'developer.oculus.com'
@@ -1829,7 +1831,7 @@ payload:
     - '+.teachers-teachers.com'
 
    # teacherstestprep.com
-    # - '+.teacherstestprep.com'
+    - '+.teacherstestprep.com'
 
    # tealiumiq.com (test)
     - 'uconnect.tealiumiq.com'
@@ -2024,6 +2026,9 @@ payload:
    # vapezoo
     - '+.vapezoo.com'
 
+   # vegasinfinite.com (test)
+    - '+.vegasinfinite.com'
+
    # vercel-insights.com
 
    # veritaspress.com
@@ -2156,10 +2161,10 @@ payload:
 
     # - '+.yt3.ggpht.com'
     # - 'yt3.ggpht.com'
-    # - '+. com.google.ios.youtube*'
-    # - '+. com.google.ios.youtubemusic*'
-    # - '+. YouTube*'
-    # - '+. YouTubeMusic*'
+    # - '+.com.google.ios.youtube*'
+    # - '+.com.google.ios.youtubemusic*'
+    # - '+.YouTube*'
+    # - '+.YouTubeMusic*'
 
   # z
    # zemanta.com
