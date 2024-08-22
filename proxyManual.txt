@@ -5,6 +5,8 @@
 #     - ''
 
 # rules:
+
+payload:
  # proxy manual (test)
    # Ⓜ️ 微软服务
     # - DOMAIN-KEYWORD, .1drv'
@@ -1884,6 +1886,9 @@
 
    # theplusaddons.com
     - '+.theplusaddons.com'
+
+   # thesaurus.com
+    - '+.thesaurus.com'
 
    # theseedsnetwork.com
     - '+.theseedsnetwork.com'
