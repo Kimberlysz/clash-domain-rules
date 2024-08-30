@@ -523,6 +523,7 @@ payload:
     - 'firebase-settings.crashlytics.com'
 
    # fiverr
+    - '+.fiverr.com'
     - '+.fiverrcdn.com'
 
    # footystats
