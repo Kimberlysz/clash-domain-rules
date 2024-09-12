@@ -732,7 +732,8 @@ payload:
     - '+.hashrate.to'
 
    # hbomax
-    - '+.max.com'
+    - '+.h264.io'
+    - '+.warnermediacdn.com'
 
    # healthline
     - '+.healthline.com'
@@ -1287,6 +1288,9 @@ payload:
    # proshkola
     - '+.proshkola18.ru'
 
+   # proxyium.com
+    - '+.proxyium.com'
+
    # psi.org
     - '+.psi.org'
 
@@ -1677,11 +1681,15 @@ payload:
 
    # tymebank.co.za
     - '+.tymebank.co.za'
+    - '+.tymedigital.co.za'
 
   # u
 
    # unir.net
     - '+.unir.net'
+
+   # unitedbmw.com
+    - '+.unitedbmw.com'
 
    # updraftplus
     - '+.updraftplus.com'
@@ -1726,14 +1734,12 @@ payload:
    # volumio
     - '+.volumio.com'
 
+   # vpnmentor.com
+    - '+.vpnmentor.com'
+
   # w
    # wakenbakery
     - '+.wakenbakery.net'
-
-   # warnermediacdn.com
-    - '+.warnermediacdn.com'
-
-    - 'live-manifests-aka.warnermediacdn.com'
 
    # wd.bible
     - '+.endao.app'
