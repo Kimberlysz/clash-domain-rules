@@ -1295,8 +1295,8 @@ payload:
     - '+.psi.org'
 
   # q
-   # qflm.net (test)
-    - '+.qflm.net'
+   # qiangwaikan.com
+    - '+.qiangwaikan.com'
 
    # qodeinteractive.com
     - '+.qodeinteractive.com'
@@ -1495,11 +1495,6 @@ payload:
 
    # teacherstestprep.com
     - '+.teacherstestprep.com'
-
-   # tealiumiq.com (test)
-    - 'uconnect.tealiumiq.com'
-
-    - '+.teamredminer.com'
 
    # teamredminer
     - '+.teamredminer.com'
