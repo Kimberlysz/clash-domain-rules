@@ -911,6 +911,9 @@ payload:
    # legkierody.ru
     - '+.legkierody.ru'
 
+   # letsvpn.world
+    - '+.letsvpn.world'
+
    # libbyapp.com
     - 'ic.od-cdn.com'
     - 'ntc.api.overdrive.com'
@@ -981,6 +984,7 @@ payload:
 
    # makeuseof.com
     - '+.makeuseof.com'
+    - '+.makeuseofimages.com'
 
    # matrix.one
     - '+.matrix.one'
@@ -1591,6 +1595,7 @@ payload:
     - '+.sgpstatp.com'
     - '+.snapkit.com'
 
+    - '+.tiktokcdn-eu.com'
     - '+.tokopediax.com'
 
     # - '+.-tiktokcdn-com'
