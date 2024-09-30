@@ -542,6 +542,9 @@ payload:
     - '+.fiverr.com'
     - '+.fiverrcdn.com'
 
+   # findladders.com
+    - '+.findladders.com'
+
    # footystats
     - '+.footystats.org'
 
@@ -1280,9 +1283,6 @@ payload:
    # pmpmanage
     - '+.pmpmanage.com'
     - '+.pmprollc.com'
-
-   # pndsn.com
-    - '+.pndsn.com'
 
    # podbean.com
     - '+.podbean.com'
