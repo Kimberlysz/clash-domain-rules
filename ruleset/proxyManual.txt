@@ -269,6 +269,9 @@ payload:
     - '+.chia.net'
     - '+.chiacalculator.com'
 
+   # chunman4.com
+    - '+.chunman4.com'
+
    # cipc.co.za
     - '+.cipc.co.za'
 
